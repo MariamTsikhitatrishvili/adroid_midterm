@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">midterm1</string>
+    <string name="textview">Black turtleneck top</string>
+    <string name="image">Image</string>
+    <string name="sale">5̶6̶$̶</string>
+    <string name="saledprice">$42</string>
+    <string name="Rating">4.5</string>
+    <string name="description">Description</string>
+</resources>
